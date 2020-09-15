@@ -6,16 +6,23 @@ body {
     color: gray;
 
 }
+
+.h-100 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: xx-large;
+    color: white;
+    padding: 10px;
+    margin-left: 20%;
+    font-weight: bolder;
+
+    
+}
+
 .container {
     background-color: white;
     margin-top: 5%;
-}
-
-
-
-.p-3 {
-    font-family: Georgia, 'Times New Roman', Times, serif;
-    padding: 25px;
-    margin-left: 5%;
     
 }
+
+
+
