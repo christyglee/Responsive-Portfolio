@@ -1,8 +1,21 @@
-.navbar-brand {
-    background-color: teal;
-    color: #fff;
-    font-family: Georgia, 'Times New Roman', Times, serif;
-    padding: 20px;
-    margin-left: 5%;
+body {
+    background-color: gray;
+}
 
+.nav-link {
+    color: gray;
+
+}
+.container {
+    background-color: white;
+    margin-top: 5%;
+}
+
+
+
+.p-3 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding: 25px;
+    margin-left: 5%;
+    
 }
