@@ -27,7 +27,15 @@ body {
 
 img {
     margin-right: 15px;
+    width: 70%;
+    height: auto;
 
+}
+
+.portfolio-img {
+    margin-bottom: 10%;
+    width: 100%;
+    height: auto;
 }
 
 #sticky-footer {
