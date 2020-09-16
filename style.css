@@ -3,7 +3,7 @@
 
 }
 
-.p-3 {
+.navbar-brand {
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-size: x-large;
     margin-left: 15px;
@@ -19,8 +19,9 @@ body {
 
 
 .card {
-    margin-top: 75px;
+    margin-top: 60px;
     margin-left: 30px;
+    margin-bottom: 40px;
     font-family: Georgia, 'Times New Roman', Times, serif;
     
 }
@@ -39,8 +40,8 @@ img {
 }
 
 #sticky-footer {
-    flex-shrink: none;
-    
+    border-top: 10px;
+    border-color: bg-secondary;   
 }
 
 
