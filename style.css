@@ -1,5 +1,5 @@
 body {
-    background-color: gray;
+    background-color: lightgray;
 }
 
 .nav-link {
@@ -7,20 +7,18 @@ body {
 
 }
 
-.h-100 {
+.p-3 {
     font-family: Georgia, 'Times New Roman', Times, serif;
-    font-size: xx-large;
-    color: white;
-    padding: 10px;
-    margin-left: 20%;
+    font-size: x-large;
+    margin-left: 2%;
     font-weight: bolder;
-
     
 }
 
-.container {
-    background-color: white;
+.card {
     margin-top: 5%;
+    margin-left: 4%;
+    font-family: Georgia, 'Times New Roman', Times, serif;
     
 }
 
