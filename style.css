@@ -36,7 +36,14 @@ img {
 }
 
 #sticky-footer {
-    border-top: 10px; 
+    border-top: 100px; 
+    border-color: lightgreen;
 }
 
+#stripe {
+    background-color: teal;
+    height: 10px;
+    width: 100%;
+
+}
 
