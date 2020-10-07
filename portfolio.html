@@ -4,7 +4,7 @@
     <!-- Required meta tags -->
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-
+    <link href="https://fonts.googleapis.com/css2?family=Comfortaa:wght@300&display=swap" rel="stylesheet">
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
     <link rel="stylesheet" href="style.css">
@@ -13,19 +13,22 @@
   </head>
 
   <body>
+    <div id="background">
+      <img src="https://images3.alphacoders.com/257/thumb-1920-257029.jpg" class="stretch" alt="San Diego Skyline">
+    </div>
     <!-- Navbar -->
-    <nav class="navbar navbar-expand-lg navbar-light bg-light">  
-      <a class="navbar-brand bg-info text-white" href="index.html"><h1>Christy Lee</h1></a>
+    <nav class="navbar navbar-expand-lg navbar-light special-card" style="background-color: rgba(245, 245, 245, 0.8);">  
+      <a class="navbar-brand text-gray" href="index.html"><h1><strong>Christy Lee</h1></a></strong>
       <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
       </button>
       <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
     <!-- Added 'ml-auto' to move navbar menu to the right -->
         <div class="navbar-nav ml-auto">
-          <a class="nav-link" href="index.html">About</a>  
+          <a class="nav-link text-dark" href="index.html">About</a>  
 
-          <a class="nav-link" href="portfolio.html">Portfolio</a>
-          <a class="nav-link" href="contact.html">Contact</a>
+          <a class="nav-link text-dark" href="portfolio.html">Portfolio</a>
+          <a class="nav-link text-dark" href="contact.html">Contact</a>
         </div>
 
       </div> 
@@ -34,14 +37,14 @@
 <!-- Main card code -->
   <main>
     <div class="card w-50">
-      <div class="card-body">
-      <div class="container">
+      <div class="card-body special-card" style="background-color: rgba(245, 245, 245, 0.4);">
+      <div class="container special-card" style="background-color: rgba(245, 245, 245, 0.7);">
         <br>
         <!-- First Row --> 
         <div class="row">
         <!-- Column in first row -->  
           <div class="col-md-12">
-            <h1 class="text-info"><strong>Portfolio</strong></h1>
+            <h1 class="text-gray"><strong>Portfolio</strong></h1>
             <hr>
           </div>
         </div>  
@@ -50,13 +53,13 @@
         <div class="row">
           <!-- 1 of 2 columns in second row --> 
           <div class="col-md-6">
-                        <!-- Picture link to open to a differnt tab -->
-                        <h6 class="text-center">O'Clocktail Website</h6>
-                        <a href="https://christyglee.github.io/o-clocktail/" target="blank"><img class="portfolio-img" width="250" height="250" src="o'clocktail_website.PNG" alt="O'Clocktail website image"></a>
+            <!-- Picture link to open to a differnt tab -->
+            <a href="https://github.com/christyglee/o-clocktail" target="blank"><h6 class="text-center text-dark"><strong><i>O'Clocktail Website Repository</h6></a></strong></i>
+            <a href="https://christyglee.github.io/o-clocktail/" target="blank"><img class="portfolio-img" width="250" height="250" src="o'clocktail_website.PNG" alt="O'Clocktail website image"></a>
           </div>
           <!-- 2 of 2 columns in second row --> 
           <div class="col-md-6">
-            <h6 class="text-center">Weather Dashboard</h6>
+            <a href="https://github.com/christyglee/weather-dashboard" target="blank"><h6 class="text-center text-dark"><strong><i>Weather Dashboard Repository</h6></a></strong></i>
                         <!-- Picture link to open to a differnt tab -->
             <a href="https://christyglee.github.io/weather-dashboard/" target="blank"><img class="portfolio-img" width="250" height="250" src="weather_dashboard.PNG" alt="Weather Dashboard image"></a>
           </div>
@@ -66,9 +69,9 @@
         <div class="row">
           <!-- 1 of 2 columns in thurd row --> 
           <div class="col-md-6">
-            <h6 class="text-center">Work Day Scheduler</h6>
+            <a href="https://github.com/christyglee/work-day-scheduler" target="blank"><h6 class="text-center text-dark"><strong><i>Work Day Scheduler Repository</h6></a></strong></i>
                         <!-- Picture link to open to a differnt tab -->
-            <a href="https://christyglee.github.io/work-day-scheduler/" target="blank"><img class="portfolio-img" width="250" height="250" src="https://via.placeholder.com/350" alt="Work Day Scheduler image"></a>
+            <a href="https://christyglee.github.io/work-day-scheduler/" target="blank"><img class="portfolio-img" width="250" height="250" src="Day_Planner.jpg" alt="Work Day Scheduler image"></a>
           </div>
           <!-- 2 of 2 columns in third row --> 
           <div class="col-md-6">
@@ -95,11 +98,13 @@
     </div>  
 
   </main>
-  <!-- Added stripe border to footer -->
-  <div id="stripe"></div>
+
+  <br>
+  <br>
+
     <!-- Updated footer color to bg-secondary -->
-  <footer id="sticky-footer" class="py-4 bg-secondary text-white-50">
-    <div class="container text-center">
+  <footer id="sticky-footer">
+    <div class="container text-center text-white 50">
       <small>&copy; Copyright</small>
     </div>
 
