@@ -88,7 +88,7 @@ To view the live website, please navigate to the **Deployed Link** below or  [cl
 **Christy Lee** 
 
 - [Github](https://github.com/christyglee)
-- [LinkedIn](https://www.linkedin.com/in/christy-lee-95943748/)
+- [LinkedIn](https://www.linkedin.com/in/christy-g-lee/)
 
 <br> 
 
