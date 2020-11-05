@@ -8,11 +8,11 @@ I am excited to share my progress and improve my skillset throughout this experi
 
 <br>
 
-![Image](Responsive-Portfolio.PNG)
+![Image](./public/images/Responsive-Portfolio.PNG)
 
 <br>
 
-![Image](Responsive-Portfolio-2.PNG)
+![Image](./public/images/Responsive-Portfolio-2.PNG)
 
 <br>
 
