@@ -31,11 +31,11 @@ I had a lot of fun updating the background picture for my entire site and stylin
 
 <br>
 
-<img src="./public/images/Portfolio_update2_1.PNG" width="400">
+<img src="./public/images/Portfolio_update2_1.png" width="400">
 
 <br>
 
-<img src="./public/images/Portfolio_update2_2.PNG" width="400">
+<img src="./public/images/Portfolio_update2_2.png" width="400">
 
 <br>
 
