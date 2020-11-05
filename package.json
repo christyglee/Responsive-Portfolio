@@ -1,0 +1,24 @@
+{
+  "name": "Responsive-Portfolio",
+  "version": "1.0.0",
+  "description": "Reponsive portfolio is a website designed to begin showcasing my portfolio and projects as I begin my journey as a web designer.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/christyglee/Responsive-Portfolio.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/christyglee/Responsive-Portfolio/issues"
+  },
+  "homepage": "https://github.com/christyglee/Responsive-Portfolio#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
