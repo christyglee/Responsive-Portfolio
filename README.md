@@ -8,13 +8,6 @@ I am excited to share my progress and improve my skillset throughout this experi
 
 <br>
 
-![Image](./public/images/Responsive-Portfolio.PNG)
-
-<br>
-
-![Image](./public/images/Responsive-Portfolio-2.PNG)
-
-<br>
 
 ## Coding Process
 
@@ -22,40 +15,40 @@ As a coding beginner, I found this project to be a little difficult to start; ho
 
 When tackling the "About Me" page, I was having issues with the grid system being too wide to my liking. After many unsuccessful attempts to shrink the width size without using a css stylesheet, I decided to incorporate and wrap Bootstrap's card code with the grid system I currently had in place. 
 
-Please view the source code below.
+### Portfolio Progress Part 1
 
-```
-      <div class="card w-50">
-        <div class="card-body">
+<img src="./public/images/Responsive-Portfolio.PNG" width="400">
 
-          <div class="container">
-          <!-- First Row -->  
-            <div class= "row">
-            <!-- Column in first row -->    
-                <div class="col-md-12">
-                  <br>
-                  <h1 class="text-info"><strong>About Me</strong></h1>
-                  <hr>
-                </div>
-            </div>
-          <!-- Second Row -->
-            <div class="row">
-              <!-- Column in second row -->
-              <div class="col-md-12">
-                <!-- Image sizing -->
-                <img width="275" height="225" src="https://scontent-sjc3-1.xx.fbcdn.net/v/t1.0-9/70850666_10163067927145355_6731032304879140864_o.jpg?_nc_cat=103&_nc_sid=84a396&_nc_ohc=V9cOyL2HSFoAX8JeeRs&_nc_oc=AQmWGIknB7Iqt5DO_bej_za50Y0cKX79cl0gCDFiToRSITlAPuRqnLblKJxawTk86Gw&_nc_ht=scontent-sjc3-1.xx&oh=15fedf0ef2eec2b7596d4a09ad358f72&oe=5F8695B2" alt= "Christy Lee in Sedona National Park"/>
-                <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
-                <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
-              </div>
-            </div>
+<br>
 
-        </div>
-  
-      </div>
-      </div>
-```
+<img src="./public/images/Responsive-Portfolio-2.PNG" width="400">
 
-To view the live website, please navigate to the **Deployed Link** below or  [click here](https://christyglee.github.io/Responsive-Portfolio/) to view the page.
+<br>
+
+### Updated Portfolio Part 2
+
+I had a lot of fun updating the background picture for my entire site and styling with transparent colors. Adding projects to the portfolio tab was super exciting! Lastly, I included links to my email, GitHub, LinkedIn, and Resume in the contact tab.
+
+<br>
+
+<img src="./public/images/Portfolio_update2-1.PNG" width="400">
+
+<br>
+
+<img src="./public/images/Portfolio_update2-2.PNG" width="400">
+
+<br>
+
+### Updated Portfolio Part 3
+
+In this updated portfolio, I deployed to Heroku with Express routes serving up static HTML Pages. In addition, I updated my portfolio tab to include the repository and heroku deployed link of my RooTs - A Social Media Garden project. 
+
+![alt-text](./public/images/Portfolio_update3.gif)
+
+
+<br>
+
+To view the live website, please navigate to the **Heroku Deployed Link** below or  [click here](https://christylee-portfolio.herokuapp.com/) to view the page.
 
 
 <br>
@@ -65,6 +58,11 @@ To view the live website, please navigate to the **Deployed Link** below or  [cl
 * [BOOTSTRAP](https://getbootstrap.com/)
 * [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
 * [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
+* [Node.js](https://nodejs.org/en/)
+* [npm install](https://nodejs.org/en/)
+* [express nodejs](https://www.npmjs.com/package/express)
+* [Heroku](https://www.heroku.com)
+
 
 <br>
 
@@ -79,7 +77,7 @@ To view the live website, please navigate to the **Deployed Link** below or  [cl
 
 ## Deployed Link
 
-* [See Live Site](https://christyglee.github.io/Responsive-Portfolio/)
+* [See Live Site](https://christylee-portfolio.herokuapp.com/)
 
 
 <br>
@@ -98,3 +96,5 @@ To view the live website, please navigate to the **Deployed Link** below or  [cl
 * [Google-Fu](https://www.google.com)
 * [w3schools](https://www.w3schools.com/)
 * [Stack Overflow](https://stackoverflow.com/search?q=over)
+* [Heroku](https://www.heroku.com)
+
